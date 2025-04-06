@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# Environment variables
+.env
+
+# OS / Editor-specific
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Compiled files
+*.so
+
+# Logs
+*.log
+
+# FAISS index (if saved separately)
+*.faiss
+*.idx
+
+# Streamlit cache (optional)
+.streamlit/
+
+# General backup files
+*.bak
+*.tmp
