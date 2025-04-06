@@ -67,36 +67,6 @@ streamlit run app.py
 
 **Devanshu Gupta**
 
-
-Screenshots
-## 🔮 Future Roadmap
-
-- **Multimodal Integration**  
-  Incorporate audio (speech-to-text) and video (facial expression/emotion analysis) for a more immersive interview experience.
-
-- **LLM Fine-Tuning**  
-  Fine-tune the language model for domain-specific interviews (e.g., software engineering, marketing, data science).
-
-- **Analytics Dashboard**  
-  Visualize candidate performance, scoring trends, and feedback summaries for HR/recruiter insights.
-
-- **Custom Rubric Designer**  
-  Allow organizations to define custom scoring rubrics for different roles or interview types.
-
-- **Mock Interview Mode**  
-  Enable candidates to take practice interviews with detailed analytics and performance tracking.
-
-- **Multi-Round Interview Simulation**  
-  Simulate full-length interviews with HR round + technical round + managerial round.
-
-- **Data Privacy & Consent**  
-  Implement secure data handling practices and candidate consent mechanisms.
-
----
-
-## 👨‍💻 Author
-
-**Devanshu Gupta**
 ---
 ## 📸 Screenshots
 
