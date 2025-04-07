@@ -1,3 +1,5 @@
+### NOT COMPLETED YET, IN TESTING PHASE  ###
+# Implementation & Testing Not Complete #
 from langchain_core.output_parsers import StrOutputParser
 from langchain_groq import ChatGroq
 from groq import Groq
